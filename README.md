@@ -6,7 +6,7 @@ An interactive, web-based quiz application built using **HTML**, **CSS**, and **
 
 ## 🌐 Live Demo
 
-👉 [Click here to try the QuizApp](https://your-deployment-link.com)
+👉 [Click here to try the QuizApp](https://krishdshah.github.io/quiz-app/)
 
 ---
 
@@ -31,7 +31,7 @@ An interactive, web-based quiz application built using **HTML**, **CSS**, and **
 
 ### 🔧 How to Use
 
-1. Open the [live demo](https://your-deployment-link.com).
+1. Open the [live demo](https://krishdshah.github.io/quiz-app/).
 2. Click "Start Quiz" to begin.
 3. Select the correct answer for each question.
 4. View your final score and try again if you'd like.
@@ -44,3 +44,4 @@ An interactive, web-based quiz application built using **HTML**, **CSS**, and **
 
 ```bash
 git clone https://github.com/your-username/quizapp.git
+
